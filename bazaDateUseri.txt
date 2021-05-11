@@ -1,0 +1,5 @@
+
+Nume de familie: nume
+Prenume: pren
+Varsta: 13
+Abonament Premium: 0
